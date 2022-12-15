@@ -1,3 +1,8 @@
+# - **Note: File structure may be complicated for you. But this is because we work as a team**
+
+
+
+
 # Merge Medieval
 
 Game Genre
